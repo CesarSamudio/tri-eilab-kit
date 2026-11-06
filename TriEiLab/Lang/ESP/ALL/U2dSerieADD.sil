@@ -1,0 +1,26 @@
+[Captions]
+TF2dSerieADD.btnAdd=增加~!@#$incrementar~!@#$
+TF2dSerieADD.btnDelete=删除~!@#$Borrar ~!@#$
+TF2dSerieADD.btnExit=退出~!@#$Salir ~!@#$
+TF2dSerieADD.ckLine=显示线~!@#$Mostrar la l韓ea~!@#$
+TF2dSerieADD.ckPoint=显示点~!@#$Mostrar el punto~!@#$
+TF2dSerieADD.dxDBGridfvcName=名称~!@#$nombre~!@#$
+TF2dSerieADD.dxDBGridfvcX=X 轴~!@#$Axis X~!@#$
+TF2dSerieADD.dxDBGridfvcY=Y 轴~!@#$Axis Y~!@#$
+TF2dSerieADD.Label1=显示~!@#$Mostrar ~!@#$
+TF2dSerieADD.Label5=名称~!@#$Nombre ~!@#$
+TF2dSerieADD.Label8=X轴~!@#$X-axis~!@#$
+TF2dSerieADD.Label9=Y轴~!@#$Y-axis~!@#$
+TF2dSerieADD.lblColor=颜色~!@#$Color ~!@#$
+TF2dSerieADD.TF2dSerieADD=图线编辑~!@#$Editar la l韓ea~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TF2dSerieADD.cbLineColor.CustomColorCaption=其它颜色...~!@#$Otros colores...~!@#$
+

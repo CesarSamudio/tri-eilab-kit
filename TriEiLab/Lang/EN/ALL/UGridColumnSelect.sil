@@ -1,0 +1,13 @@
+[Captions]
+TfrmGridColumnSelect.RzBitBtn1=确定~!@#$OK~!@#$
+TfrmGridColumnSelect.RzBitBtn2=取消~!@#$Cancel~!@#$
+TfrmGridColumnSelect.TfrmGridColumnSelect=列选择~!@#$List Select~!@#$
+TfrmGridColumnSelect.cball=全选~!@#$Select all~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

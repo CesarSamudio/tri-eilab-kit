@@ -1,0 +1,13 @@
+[Captions]
+TF1DViewForm.N10=仪表方式~!@#$Meter View~!@#$
+TF1DViewForm.N11=柱图方式~!@#$Bar View~!@#$
+TF1DViewForm.N12=图形方式~!@#$Gragh View~!@#$
+TF1DViewForm.N9=数字方式~!@#$Digital View~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

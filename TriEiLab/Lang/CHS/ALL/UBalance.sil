@@ -1,0 +1,18 @@
+[Captions]
+TFBalance.btnClear=清除~!@#$Clear~!@#$
+TFBalance.btnExit=退出~!@#$Exit~!@#$
+TFBalance.btnSet=设置~!@#$Setup~!@#$
+TFBalance.Label2=真实值~!@#$Real Value:~!@#$
+TFBalance.Label5=平衡值~!@#$Balance Value~!@#$
+TFBalance.lblBalance=0.00~!@#$0.00~!@#$
+TFBalance.lblRaw=0.00~!@#$0.00~!@#$
+TFBalance.lblSensor=传感器~!@#$Sensor~!@#$
+TFBalance.TFBalance=平衡位置设置~!@#$Balance Setup~!@#$
+
+[Language names - for internal use only!]
+Language_1=????
+Language_2=English
+
+[OPTIONS]
+DELIMITER=~!@#$
+

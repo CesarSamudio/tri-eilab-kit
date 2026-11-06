@@ -1,0 +1,90 @@
+;LanguageID=1033
+;LanguageName=English
+;TranslationAuthor=
+;TranslationAuthorEmail=
+
+[UI]
+;[TFRecompense]
+TFRecompense_Btn_BC=Compensation
+TFRecompense_Btn_JL=Zero Set
+TFRecompense_Btn_BD=Calibration
+TFRecompense_WD=Temperature:
+TFRecompense_SZ=Value:
+TFRecompense_QY=Pressure:
+TFRecompense_AutoT_Q=Place the Temperature Sensor in Sample when Choose Automatic Compensation.
+TFRecompense_AutoT_Y=Place the Temperature Sensor in Sample when Choose Automatic Compensation.
+TFRecompense_GB_CO2_C1_Caption= 1.Buffer(Place in Buffer) 
+TFRecompense_GB_DDL_Check_Caption= 1.Buffer(Place in Buffer)
+TFRecompense_GB_DDL_Input_Caption= 2.Import
+TFRecompense_Gb_Ph_1_Caption= 1.Buffer(Place in Buffer) 
+TFRecompense_Gb_Ph_2_Caption= 2.Buffer(Place in Buffer) 
+TFRecompense_Label2_Caption=PH Value:
+TFRecompense_Label29_Caption=DD serial:
+TFRecompense_Label35_Caption=Concentration:
+TFRecompense_Label4_Caption=PH Value:
+TFRecompense_Label41_Caption=No2:
+TFRecompense_Label44_Caption=No2:
+TFRecompense_RB_DDL_Check_Caption=Calibration
+TFRecompense_RB_DDL_Input_Caption=Manually input
+TFRecompense_RbAuto_Caption=Automatic Compensation
+TFRecompense_RbHand_Caption=Manually Compensation
+TFRecompense_RbOnePoint_Caption=1 Point
+TFRecompense_RbTwoPoint_Caption=2 Points
+TFRecompense_RzGroupBox1_Caption= 1.Zero Set
+TFRecompense_RzGroupBox10_Caption= 4.Place in Sample
+TFRecompense_RzGroupBox11_Caption= 2.Atmospheric Pressure
+TFRecompense_RzGroupBox12_Caption= 2.Place in Sample
+TFRecompense_RzGroupBox13_Caption= 1.Place in the Buffer 1
+TFRecompense_RzGroupBox14_Caption= 2.Place in the Buffer 2
+TFRecompense_RzGroupBox15_Caption= 3.Place in Sample
+TFRecompense_RzGroupBox2_Caption= 3.Calibration
+TFRecompense_RzGroupBox3_Caption= 3.Place in Sample
+TFRecompense_RzGroupBox4_Caption= 1.Compensation 
+TFRecompense_RzGroupBox5_Caption= 4.Place in Sample
+TFRecompense_RzGroupBox6_Caption= 2.Atmospheric Pressure
+TFRecompense_RzGroupBox7_Caption= 1.Zero Set
+TFRecompense_RzGroupBox8_Caption= 3.Place in Air
+TFRecompense_RzGroupBox9_Caption= 3.Place in Sample
+
+;[TFSensorReset]
+TFSensorReset_BtnExit_Caption=Exit
+TFSensorReset_Cl1_Caption=Clear
+TFSensorReset_Cl2_Caption=Clear
+TFSensorReset_Cl3_Caption=Clear
+TFSensorReset_cl4_Caption=Clear
+TFSensorReset_Label1_Caption=[No Sensor]
+TFSensorReset_Label2_Caption=[No Sensor]
+TFSensorReset_Label3_Caption=[No Sensor]
+TFSensorReset_Label4_Caption=[No Sensor]
+TFSensorReset_Rs1_Caption=Zero Set
+TFSensorReset_rs2_Caption=Zero Set
+TFSensorReset_rs3_Caption=Zero Set
+TFSensorReset_rs4_Caption=Zero Set
+TFSensorReset_RzPanel1_Caption=Calibration
+
+[SOURCE]
+;[PUB]-[URecompense]	
+URecompense_PH1=Place the pH Sensor in Buffer 1.
+URecompense_PH2=Place the pH Sensor in Buffer 2.
+URecompense_DO0=Place the Dissolved Sensor in the Nitrogen.
+URecompense_DOB=Place the Dissolved Sensor in Buffer.
+URecompense_TempNum=Found %d Temperature Sensor,Only need one.
+URecompense_TempNotExist=No Temperature Sensor Connected, the Automatic Compensation Could not be Carried Out.
+URecompense_DDB=Place the Conductivity Sensor in Buffer.
+URecompense_QO0=Place the Oxygen Sensor in the Nitrogen.
+URecompense_QOB=Place Oxygen Sensor in air.
+URecompense_CO2B=Place the Dioxide Sensor in buffer 1
+URecompense_NO21=Place the NO2 Sensor in buffer 1
+URecompense_NO22=Place the NO2 Sensor in buffer 2
+	
+;[PUB]-[USensorReset]	
+USensorReset_NO=Zero Adjustment is not Required
+USensorReset_NOSensor=[No Sensor]
+USensorReset_JL=Zero Set
+USensorReset_BC=Compensation
+USensorReset_Sensor=Sensor
+
+UMsgBox_Info=Info
+UMsgBox_Error=Error
+UMsgBox_Warn=Warning
+UMsgBox_Confirm=Are you sure

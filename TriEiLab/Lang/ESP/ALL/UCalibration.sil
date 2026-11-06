@@ -1,0 +1,26 @@
+[Captions]
+TFCalibration.btnBd1=标定~!@#$Escalar ~!@#$
+TFCalibration.btnBd2=标定~!@#$Escalar ~!@#$
+TFCalibration.btnjz=校准~!@#$Calibrar ~!@#$
+TFCalibration.btnjzCancel=取消~!@#$Cancelar ~!@#$
+TFCalibration.edtbd=标定~!@#$Escalar ~!@#$
+TFCalibration.edtExit=退出~!@#$Salir ~!@#$
+TFCalibration.edtjl=校准~!@#$Calibrar ~!@#$
+TFCalibration.edtOK=确定~!@#$Determinar  ~!@#$
+TFCalibration.Label1=请将传感器所测试的值为下面数值后点击确定。~!@#$Colocar los siguientes n鷐eros para valores medidos por el sensor y seleccionar " determinar".~!@#$
+TFCalibration.Label11=数值:~!@#$N鷐eros:~!@#$
+TFCalibration.Label3=1. 低端值~!@#$1.Valor m韓imo~!@#$
+TFCalibration.Label4=2. 高端值~!@#$2. Valor m醲imo~!@#$
+TFCalibration.Label8=请输入传感器当前读数所对应的真实值：~!@#$Introducir el valor verdadero que se responde a la indicación actual del sensor:~!@#$
+TFCalibration.lblbd=请将传感器所测试的值为相应值后点击“标定”，然后点击“确定”。~!@#$Introducir el valor verdadero que se responde a la indicaci髇 actual del sensor:~!@#$
+TFCalibration.lblsel=选择传感器:~!@#$Elegir sensor~!@#$
+TFCalibration.lbltemp=3. 温度~!@#$3. Temperatura ~!@#$
+TFCalibration.TFCalibration=校准~!@#$Calibrar ~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+DELIMITER=~!@#$
+

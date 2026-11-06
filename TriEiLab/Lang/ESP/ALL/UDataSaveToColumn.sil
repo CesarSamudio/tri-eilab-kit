@@ -1,0 +1,17 @@
+[Captions]
+TfrmDataSaveToColumn.Label1=选择同步变量~!@#$Seleccionar variable de sincronizaci髇~!@#$
+TfrmDataSaveToColumn.Label2=名称~!@#$nombre~!@#$
+TfrmDataSaveToColumn.Label3=单位~!@#$Unidad ~!@#$
+TfrmDataSaveToColumn.Label4=变量名~!@#$Nombre de variable~!@#$
+TfrmDataSaveToColumn.Label5=选择需要存的数据列~!@#$Seleccionar columnas de datos que se necesita para guardarse~!@#$
+TfrmDataSaveToColumn.RzBitBtn1=确定~!@#$Determinar ~!@#$
+TfrmDataSaveToColumn.RzBitBtn2=取消~!@#$Cancelar ~!@#$
+TfrmDataSaveToColumn.TfrmDataSaveToColumn=列选择~!@#$Selecci髇 de columna~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

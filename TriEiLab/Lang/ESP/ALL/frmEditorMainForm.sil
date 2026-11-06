@@ -1,0 +1,69 @@
+[Captions]
+TfrmEditorMainForm.BackgroundBtn=背景色~!@#$Color de fondo~!@#$
+TfrmEditorMainForm.BoldBtn=粗体~!@#$Negrita ~!@#$
+TfrmEditorMainForm.BulletsBtn=项目符号~!@#$Bullet ~!@#$
+TfrmEditorMainForm.CenterBtn=居中~!@#$Central ~!@#$
+TfrmEditorMainForm.ColorBtn=颜色~!@#$Color ~!@#$
+TfrmEditorMainForm.CopyBtn=复制~!@#$Copiar ~!@#$
+TfrmEditorMainForm.CopyItm=复制~!@#$Copiar ~!@#$
+TfrmEditorMainForm.CutBtn=剪切~!@#$Cortar ~!@#$
+TfrmEditorMainForm.CutItm=剪切~!@#$Cortar ~!@#$
+TfrmEditorMainForm.FindBtn=查找~!@#$Buscar ~!@#$
+TfrmEditorMainForm.FirstInd=e~!@#$~!@#$
+TfrmEditorMainForm.ItalicBtn=斜体~!@#$Cursiva ~!@#$
+TfrmEditorMainForm.JustifyBtn=两端对齐~!@#$Justificado ~!@#$
+TfrmEditorMainForm.JvSpeedItem1=插入图片~!@#$Insertar dibujos~!@#$
+TfrmEditorMainForm.JvSpeedItem3=插入对象~!@#$Objetos de inserto~!@#$
+TfrmEditorMainForm.LeftBtn=左对齐~!@#$Justificado a la izquierda~!@#$
+TfrmEditorMainForm.LeftInd=e~!@#$~!@#$
+TfrmEditorMainForm.NewBtn=新建~!@#$Nuevo ~!@#$
+TfrmEditorMainForm.OpenBtn=打开~!@#$Abrir ~!@#$
+TfrmEditorMainForm.PasteBtn=粘贴~!@#$Pegar ~!@#$
+TfrmEditorMainForm.PasteItm=粘贴~!@#$Pegar ~!@#$
+TfrmEditorMainForm.PrintBtn=打印~!@#$Imprimir ~!@#$
+TfrmEditorMainForm.RedoBtn=重做~!@#$Rehacer ~!@#$
+TfrmEditorMainForm.RightBtn=右对齐~!@#$Justificado a la derecha~!@#$
+TfrmEditorMainForm.RightInd=?~!@#$~!@#$
+TfrmEditorMainForm.SaveBtn=保存~!@#$Guardar ~!@#$
+TfrmEditorMainForm.SpeedbarSection1=文件~!@#$Archivo ~!@#$
+TfrmEditorMainForm.SpeedbarSection2=编辑~!@#$Editar ~!@#$
+TfrmEditorMainForm.SpeedbarSection3=格式化~!@#$Formatear ~!@#$
+TfrmEditorMainForm.SubscriptBtn=下标~!@#$Sub韓dice~!@#$
+TfrmEditorMainForm.SuperscriptBtn=上标~!@#$Super韓dice~!@#$
+TfrmEditorMainForm.TfrmEditorMainForm=编辑器~!@#$Editor ~!@#$
+TfrmEditorMainForm.UnderlineBtn=下划线~!@#$Subrayas ~!@#$
+TfrmEditorMainForm.UndoBtn=撤销~!@#$Discontinuar ~!@#$
+
+[Hints]
+TfrmEditorMainForm.BackgroundBtn=背景色~!@#$Background color~!@#$
+TfrmEditorMainForm.BoldBtn=粗体~!@#$Bold~!@#$
+TfrmEditorMainForm.BulletsBtn=项目编号~!@#$N鷐ero de art韈ulo~!@#$
+TfrmEditorMainForm.CenterBtn=居中~!@#$Central ~!@#$
+TfrmEditorMainForm.ColorBtn=字体颜色~!@#$Color de las letras~!@#$
+TfrmEditorMainForm.CopyBtn=复制~!@#$Copiar ~!@#$
+TfrmEditorMainForm.CutBtn=剪切~!@#$Cortar ~!@#$
+TfrmEditorMainForm.FindBtn=查找~!@#$Buscar ~!@#$
+TfrmEditorMainForm.ItalicBtn=斜体~!@#$Cursiva ~!@#$
+TfrmEditorMainForm.JustifyBtn=两端对齐~!@#$Justificado ~!@#$
+TfrmEditorMainForm.JvSpeedItem1=插入图片~!@#$Insertar dibujos~!@#$
+TfrmEditorMainForm.JvSpeedItem3=插入对象~!@#$Objetos de inserto~!@#$
+TfrmEditorMainForm.LeftBtn=左对齐~!@#$Justificado a la izquierda~!@#$
+TfrmEditorMainForm.NewBtn=新建~!@#$Nuevo ~!@#$
+TfrmEditorMainForm.OpenBtn=打开~!@#$Abrir ~!@#$
+TfrmEditorMainForm.PasteBtn=粘贴~!@#$Pegar ~!@#$
+TfrmEditorMainForm.PrintBtn=打印~!@#$Imprimir ~!@#$
+TfrmEditorMainForm.RedoBtn=重做~!@#$Rehacer ~!@#$
+TfrmEditorMainForm.RightBtn=右对齐~!@#$Justificado a la derecha~!@#$
+TfrmEditorMainForm.SaveBtn=保存~!@#$Guardar ~!@#$
+TfrmEditorMainForm.SubscriptBtn=下标~!@#$Sub韓dice~!@#$
+TfrmEditorMainForm.SuperscriptBtn=上标~!@#$Super韓dice~!@#$
+TfrmEditorMainForm.UnderlineBtn=下划线~!@#$Subrayas ~!@#$
+TfrmEditorMainForm.UndoBtn=取消~!@#$Cancelar ~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+DELIMITER=~!@#$
+

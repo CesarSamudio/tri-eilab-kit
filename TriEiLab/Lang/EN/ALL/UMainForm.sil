@@ -1,0 +1,64 @@
+[Captions]
+TFMainForm.AcHideAll=全部隐藏~!@#$Hide All~!@#$
+TFMainForm.AcShowAll=全部显示~!@#$Show All~!@#$
+TFMainForm.AcShowCaption=标题栏~!@#$Show Caption~!@#$
+TFMainForm.AcShowControlPanel=操作栏~!@#$Show Control~!@#$
+TFMainForm.AcShowSensors=传感器~!@#$Show Sensors Info~!@#$
+TFMainForm.csensor1=无传感器~!@#$No Sensor~!@#$
+TFMainForm.csensor2=无传感器~!@#$No Sensor~!@#$
+TFMainForm.csensor3=无传感器~!@#$No Sensor~!@#$
+TFMainForm.csensor4=无传感器~!@#$No Sensor~!@#$
+TFMainForm.DlgLayoutName=编辑~!@#$Edit~!@#$
+TFMainForm.edtExprName=编辑~!@#$Edit~!@#$
+TFMainForm.Label1=间隔~!@#$Interval~!@#$
+TFMainForm.NReplay=数据回放~!@#$Replay~!@#$
+TFMainForm.NStart=开始实验~!@#$Start~!@#$
+TFMainForm.rbCount=点数~!@#$Count~!@#$
+TFMainForm.rbTime=时间~!@#$Time~!@#$
+TFMainForm.TabHelp=实验指导~!@#$Experimental coaching~!@#$
+TFMainForm.TabReport=实验报告~!@#$Experimental Report~!@#$
+TFMainForm.NRearrange=重新排列~!@#$Rearrange~!@#$
+TFMainForm.N7=置顶~!@#$Bring to Front~!@#$
+TFMainForm.N8=置底~!@#$Sent to Back~!@#$
+TFMainForm.NName=标题~!@#$Title~!@#$
+TFMainForm.NOpenImage=打开图片~!@#$Load image~!@#$
+
+[Hints]
+TFMainForm.btnClose=删除活页夹~!@#$Delete Page~!@#$
+TFMainForm.btnFunc=公式编辑~!@#$Function Edit~!@#$
+TFMainForm.btnGDM=光电门、滴定设置~!@#$Photogate Setup~!@#$
+TFMainForm.btnHand=手动采集~!@#$Manually~!@#$
+TFMainForm.btnLine=增加线~!@#$Add Line~!@#$
+TFMainForm.btnMould=保存实验~!@#$Save experiment~!@#$
+TFMainForm.btnNew=新建活页夹~!@#$New Page~!@#$
+TFMainForm.btnPause=暂停~!@#$Pause~!@#$
+TFMainForm.btnReport=实验报告~!@#$Report~!@#$
+TFMainForm.btnSensors=传感器校准~!@#$Calibration~!@#$
+TFMainForm.btnStart=开始~!@#$Start~!@#$
+TFMainForm.BtnStop=停止~!@#$Stop~!@#$
+TFMainForm.btnToCollect=采集模式~!@#$Collection mode~!@#$
+TFMainForm.btnToReplay=回放模式~!@#$Playback mode~!@#$
+TFMainForm.btnTrigger=触发设置~!@#$Trigger~!@#$
+TFMainForm.btnZD=转动设置~!@#$Rotation setup~!@#$
+TFMainForm.lblexprname=双击修改实验名称~!@#$Double click the experiment name to rename~!@#$
+TFMainForm.ReplayPause=暂停~!@#$Pause~!@#$
+TFMainForm.ReplayStart=开始~!@#$Start~!@#$
+TFMainForm.ReplayStop=停止~!@#$Stop~!@#$
+TFMainForm.BtnFast=快速实验~!@#$Rapid Experiment~!@#$
+TFMainForm.BtnVarEdit=变量编辑~!@#$Variable Edit~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TFMainForm.DlgLayoutName.ButtonCancelCaption=取消~!@#$Cancel~!@#$
+TFMainForm.DlgLayoutName.ButtonOKCaption=确定~!@#$OK~!@#$
+TFMainForm.DlgLayoutName.PromptText=活页夹标题~!@#$Title of loose-leaf binder~!@#$
+TFMainForm.edtExprName.ButtonCancelCaption=取消~!@#$Cancel~!@#$
+TFMainForm.edtExprName.ButtonOKCaption=确定~!@#$OK~!@#$
+TFMainForm.edtExprName.PromptText=输入实验名称~!@#$Input name of experiment~!@#$
+

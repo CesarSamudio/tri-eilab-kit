@@ -1,0 +1,23 @@
+[Captions]
+TFCalibration.btnBd1=标定~!@#$Calibrate~!@#$
+TFCalibration.btnBd2=标定~!@#$Calibrate~!@#$
+TFCalibration.btnjz=校准~!@#$Calibrate~!@#$
+TFCalibration.btnjzCancel=取消~!@#$Cancel~!@#$
+TFCalibration.edtbd=标定~!@#$Calibrate~!@#$
+TFCalibration.edtExit=退出~!@#$Exit~!@#$
+TFCalibration.edtjl=校准~!@#$Zero~!@#$
+TFCalibration.edtOK=确定~!@#$OK~!@#$
+TFCalibration.Label1=请将传感器所测试的值为下面数值后点击确定。~!@#$Click on ""OK"" when the input is equal to the value listed below.~!@#$
+TFCalibration.Label11=数值:~!@#$Value:~!@#$
+TFCalibration.Label3=1. 低端值~!@#$1. Low Value~!@#$
+TFCalibration.Label4=2. 高端值~!@#$2. High Value~!@#$
+TFCalibration.Label8=请输入传感器当前读数所对应的真实值：~!@#$Please enter the true value corresponding to the current sensor reading~!@#$
+TFCalibration.lblbd=请将传感器所测试的值为相应值后点击“标定”，然后点击“确定”。~!@#$Click on ""Calibration"" when the input is equal to the following values successively, then click on ""OK""~!@#$
+TFCalibration.lblsel=选择传感器:~!@#$Select sensor:~!@#$
+TFCalibration.lbltemp=3. 温度~!@#$3. Temptuare~!@#$
+TFCalibration.TFCalibration=校准~!@#$Calibration~!@#$
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+[OPTIONS]
+DELIMITER=~!@#$

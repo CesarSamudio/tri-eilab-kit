@@ -1,0 +1,19 @@
+[Captions]
+TFSaveExpr.Label1=实验名称~!@#$El nombre del experimento~!@#$
+TFSaveExpr.Label2=实验指导~!@#$Orientaci髇 experimental~!@#$
+TFSaveExpr.RzBitBtn1=确定~!@#$Determinar ~!@#$
+TFSaveExpr.RzBitBtn2=取消~!@#$Cancelar ~!@#$
+TFSaveExpr.RzCheckBox1=保存为实验模板（只保存实验设置，不保存实验数据。）~!@#$Guardar como modelo experimental(guardar las configuraciones de experimento sin datos.)~!@#$
+TFSaveExpr.TFSaveExpr=保存实验~!@#$Guardar experimento~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TFSaveExpr.edtName.Text=实验一~!@#$Experimento~!@#$
+TFSaveExpr.SaveDialog1.Filter=实验文件(*.des)|*.des~!@#$Documentos de experimento(*.des)|*.des~!@#$
+

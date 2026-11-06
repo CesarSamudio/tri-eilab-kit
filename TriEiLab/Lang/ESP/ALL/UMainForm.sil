@@ -1,0 +1,64 @@
+[Captions]
+TFMainForm.AcHideAll=全部隐藏~!@#$Ocultar todo~!@#$
+TFMainForm.AcShowAll=全部显示~!@#$Mostrar todo~!@#$
+TFMainForm.AcShowCaption=标题栏~!@#$Barra de t韙ulo~!@#$
+TFMainForm.AcShowControlPanel=操作栏~!@#$Barra de operaci髇~!@#$
+TFMainForm.AcShowSensors=传感器~!@#$Sensor ~!@#$
+TFMainForm.csensor1=无传感器~!@#$Sin sensor~!@#$
+TFMainForm.csensor2=无传感器~!@#$Sin sensor~!@#$
+TFMainForm.csensor3=无传感器~!@#$Sin sensor~!@#$
+TFMainForm.csensor4=无传感器~!@#$Sin sensor~!@#$
+TFMainForm.DlgLayoutName=编辑~!@#$Editar ~!@#$
+TFMainForm.edtExprName=编辑~!@#$Editar ~!@#$
+TFMainForm.Label1=间隔~!@#$Intervalo ~!@#$
+TFMainForm.N7=置顶~!@#$Colocar arriba~!@#$
+TFMainForm.N8=置底~!@#$Colocar abajo~!@#$
+TFMainForm.NName=标题~!@#$T韙ulo~!@#$
+TFMainForm.NOpenImage=打开图片~!@#$Abrir imagen~!@#$
+TFMainForm.NRearrange=重新排列~!@#$Reorganizaci髇~!@#$
+TFMainForm.NReplay=数据回放~!@#$Playback de datos~!@#$
+TFMainForm.NStart=开始实验~!@#$Iniciar experimento~!@#$
+TFMainForm.rbCount=点数~!@#$Enumerar ~!@#$
+TFMainForm.rbTime=时间~!@#$Tiempo~!@#$
+TFMainForm.TabHelp=实验指导~!@#$Orientaci髇 experimental~!@#$
+TFMainForm.TabReport=实验报告~!@#$Informe experimental~!@#$
+
+[Hints]
+TFMainForm.btnClose=删除活页夹~!@#$Borrar la carpeta~!@#$
+TFMainForm.BtnFast=快速实验~!@#$Experimento r醦ido~!@#$
+TFMainForm.btnFunc=公式编辑~!@#$Editar f髍mula~!@#$
+TFMainForm.btnGDM=光电门、滴定设置~!@#$Configuraci髇 de puerta fotoel閏trica y titulaci髇~!@#$
+TFMainForm.btnHand=手动采集~!@#$Adquisici髇 a mano~!@#$
+TFMainForm.btnLine=增加线~!@#$Agregar l韓eas~!@#$
+TFMainForm.btnMould=保存实验~!@#$Guardar experimento~!@#$
+TFMainForm.btnNew=新建活页夹~!@#$Nueva carpeta~!@#$
+TFMainForm.btnPause=暂停~!@#$Pausa~!@#$
+TFMainForm.btnReport=实验报告~!@#$Informe experimental~!@#$
+TFMainForm.btnSensors=传感器校准~!@#$Calibraci髇 de sensor~!@#$
+TFMainForm.btnStart=开始~!@#$Iniciar ~!@#$
+TFMainForm.BtnStop=停止~!@#$Detener  ~!@#$
+TFMainForm.btnToCollect=采集模式~!@#$Modo de adaptaci髇~!@#$
+TFMainForm.btnToReplay=回放模式~!@#$Modo de playback~!@#$
+TFMainForm.btnTrigger=触发设置~!@#$Configuraci髇 activaci髇~!@#$
+TFMainForm.BtnVarEdit=变量编辑~!@#$Editar variable~!@#$
+TFMainForm.btnZD=转动设置~!@#$Configuraci髇 de rotaci髇~!@#$
+TFMainForm.lblexprname=双击修改实验名称~!@#$Doble clic para cambiar el nombre experimental~!@#$
+TFMainForm.ReplayPause=暂停~!@#$Pausa ~!@#$
+TFMainForm.ReplayStart=开始~!@#$Iniciar ~!@#$
+TFMainForm.ReplayStop=停止~!@#$Detener  ~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TFMainForm.DlgLayoutName.ButtonCancelCaption=取消~!@#$Cancelar ~!@#$
+TFMainForm.DlgLayoutName.ButtonOKCaption=确定~!@#$Determinar ~!@#$
+TFMainForm.DlgLayoutName.PromptText=活页夹标题~!@#$T韙ulo de la carpeta~!@#$
+TFMainForm.edtExprName.ButtonCancelCaption=取消~!@#$Cancelar ~!@#$
+TFMainForm.edtExprName.ButtonOKCaption=确定~!@#$Determinar ~!@#$
+TFMainForm.edtExprName.PromptText=输入实验名称~!@#$Introduzca un nombre de experimento~!@#$
+

@@ -1,0 +1,15 @@
+[Captions]
+TfrmMarkerCaption.CancelBtn=取消~!@#$Cancelar ~!@#$
+TfrmMarkerCaption.OKBtn=确定~!@#$Determinar ~!@#$
+TfrmMarkerCaption.TfrmMarkerCaption=标记信息~!@#$Informaci髇 de etiqueta~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TfrmMarkerCaption.edtCaption.Text=标记~!@#$Etiqueta ~!@#$
+

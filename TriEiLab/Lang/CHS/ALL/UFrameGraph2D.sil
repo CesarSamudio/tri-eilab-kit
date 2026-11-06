@@ -1,0 +1,37 @@
+[Captions]
+TFrameGraph2D.graph2D=图表~!@#$Chart~!@#$
+TFrameGraph2D.N1=显示工具栏~!@#$Show ToolBar~!@#$
+TFrameGraph2D.N2=显示状态栏~!@#$Show Status Bar~!@#$
+TFrameGraph2D.N4=显示图例~!@#$Show Lenged~!@#$
+TFrameGraph2D.X1=X轴置于上端~!@#$Move X Aixs Top~!@#$
+TFrameGraph2D.NConfig=图线管理器~!@#$Curve manager~!@#$
+
+[Hints]
+TFrameGraph2D.btnDrawByHand=手工绘图~!@#$Manual drawing~!@#$
+TFrameGraph2D.btnMoveLineByHand=移动手工绘图线~!@#$Shift manually-drawn lines~!@#$
+TFrameGraph2D.btnZoomLineByHand=放缩手工绘图线~!@#$Zoom out manually-drawn lines~!@#$
+TFrameGraph2D.SpLineEditer=编辑手工绘图线~!@#$Edit manually-drawn lines~!@#$
+TFrameGraph2D.sbAutoSize=显示全部数据~!@#$Expend from Min to Max~!@#$
+TFrameGraph2D.sbConfig=图线管理器...~!@#$Curve manager...~!@#$
+TFrameGraph2D.sbCrossBoth=交叉参考线~!@#$Cross guides~!@#$
+TFrameGraph2D.sbMoveH=左右移动~!@#$Pan horizontal~!@#$
+TFrameGraph2D.sbMovePan=移动~!@#$Pan~!@#$
+TFrameGraph2D.sbMoveV=上下移动~!@#$Pan vertical~!@#$
+TFrameGraph2D.sbNone=指针~!@#$Pointer~!@#$
+TFrameGraph2D.sbSave=保存图像...~!@#$Save graph...~!@#$
+TFrameGraph2D.sbSelect=选区~!@#$Selection~!@#$
+TFrameGraph2D.sbSetXY=设置显示范围~!@#$Reset display range~!@#$
+TFrameGraph2D.sbZoomDrag=缩放~!@#$Scale~!@#$
+TFrameGraph2D.sbZoomIn=放大~!@#$Zoom in~!@#$
+TFrameGraph2D.sbZoomNormal=恢复缩放~!@#$Restore Scaling~!@#$
+TFrameGraph2D.sbZoomOut=缩小~!@#$Zoom out~!@#$
+TFrameGraph2D.spDeletePoints=删除数据点~!@#$Delete data points~!@#$
+TFrameGraph2D.spDelMarker=删除标记~!@#$Delete text~!@#$
+TFrameGraph2D.spMarker=增加标记~!@#$Add text~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$

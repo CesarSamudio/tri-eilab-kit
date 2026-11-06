@@ -1,0 +1,12 @@
+[Captions]
+TFStyleSelect.TFStyleSelect=模板选择~!@#$Select display mode~!@#$
+TFStyleSelect.RzGroupBox1=预设模版~!@#$Default~!@#$
+TFStyleSelect.RzGroupBox2=定制模版~!@#$Custom~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

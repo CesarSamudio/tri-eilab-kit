@@ -1,0 +1,12 @@
+[Captions]
+TfrmSelectMachine.btnCancel=取消~!@#$Cancel~!@#$
+TfrmSelectMachine.btnOK=确定~!@#$OK~!@#$
+TfrmSelectMachine.TfrmSelectMachine=设备选择~!@#$Equipment selection~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

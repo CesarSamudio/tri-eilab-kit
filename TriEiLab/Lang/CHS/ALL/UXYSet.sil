@@ -1,0 +1,17 @@
+[Captions]
+TFXYSet.Label1=X轴最小值:~!@#$X Min:~!@#$
+TFXYSet.Label2=X轴最大值:~!@#$X Max:~!@#$
+TFXYSet.Label3=Y轴最小值:~!@#$Y Min:~!@#$
+TFXYSet.Label4=Y轴最大值:~!@#$Y Max:~!@#$
+TFXYSet.RzBitBtn1=确定~!@#$OK~!@#$
+TFXYSet.RzBitBtn2=取消~!@#$Cancel~!@#$
+TFXYSet.RzBitBtn3=默认~!@#$Default~!@#$
+TFXYSet.TFXYSet=坐标轴设置~!@#$Aixs Setup~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

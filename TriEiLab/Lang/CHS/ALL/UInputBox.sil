@@ -1,0 +1,13 @@
+[Captions]
+TFInputBox.btnCancel=取消@Cancel@
+TFInputBox.btnok=确定@OK@
+TFInputBox.Label1=@@
+TFInputBox.TFInputBox=FInputBox@@
+
+[Language names - for internal use only!]
+Language_1=????
+Language_2=English
+
+[OPTIONS]
+DELIMITER=@
+

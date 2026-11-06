@@ -1,0 +1,17 @@
+[Captions]
+TFZDWizard.lblParam=滑轮半径~!@#$Radius of pulley~!@#$
+TFZDWizard.rbDeviceType=选择类型~!@#$Type of selection~!@#$
+TFZDWizard.RGGear=选择被测物理量~!@#$Select measurand~!@#$
+TFZDWizard.RGWheel=选择被测物理量~!@#$Select measurand~!@#$
+TFZDWizard.RzBitBtn1=确定~!@#$OK~!@#$
+TFZDWizard.RzBitBtn2=取消~!@#$Cancel~!@#$
+TFZDWizard.RzGroupBox1=参数~!@#$Parameters~!@#$
+TFZDWizard.TFZDWizard=转动设置~!@#$Rotation setup~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

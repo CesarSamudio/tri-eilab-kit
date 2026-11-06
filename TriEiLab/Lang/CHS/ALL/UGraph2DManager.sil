@@ -1,0 +1,92 @@
+[Captions]
+TfrmGraph2DManager.actCleanData=删除数据~!@#$Delete data~!@#$
+TfrmGraph2DManager.actCopyLine=重叠显示~!@#$Curve duplication~!@#$
+TfrmGraph2DManager.actCosFit=余弦拟合~!@#$Cosine fit~!@#$
+TfrmGraph2DManager.actDiff=差分~!@#$Difference~!@#$
+TfrmGraph2DManager.actDiffDeltaXY=导数~!@#$Difference quotient~!@#$
+TfrmGraph2DManager.actDifferentialLine=微分曲线~!@#$Differential curve~!@#$
+TfrmGraph2DManager.actExpLine=指数拟合~!@#$Exponential fit~!@#$
+TfrmGraph2DManager.actfft=FFT~!@#$FFT~!@#$
+TfrmGraph2DManager.actGaussian=高斯拟合~!@#$Gaussian fit~!@#$
+TfrmGraph2DManager.actHyperbolic=双曲拟合~!@#$Hyperbolic fit~!@#$
+TfrmGraph2DManager.actIntegralLine=积分~!@#$Integration~!@#$
+TfrmGraph2DManager.actLine=直线拟合~!@#$Linear fit~!@#$
+TfrmGraph2DManager.actLnLine=对数拟合~!@#$Logarithmic fit~!@#$
+TfrmGraph2DManager.actLogarithmic=对数拟合~!@#$Logarithmic fit~!@#$
+TfrmGraph2DManager.actParabolic=抛物线拟合~!@#$Parabolic fit~!@#$
+TfrmGraph2DManager.actPoly=多项式拟合~!@#$Poly fit~!@#$
+TfrmGraph2DManager.actPolynomLine=多项式拟合~!@#$Polynomial fit~!@#$
+TfrmGraph2DManager.actReciprocal=倒数拟合~!@#$Reciprocal fit~!@#$
+TfrmGraph2DManager.actRemoveIntegral=取消积分~!@#$Delete integration~!@#$
+TfrmGraph2DManager.actRemoveLine=删除曲线~!@#$Delete curve~!@#$
+TfrmGraph2DManager.actSinFit=正弦拟合~!@#$Sine fit~!@#$
+TfrmGraph2DManager.actSmooth=平滑曲线~!@#$Smoothing~!@#$
+TfrmGraph2DManager.actSplineLine=SplineLine~!@#$SplineLine~!@#$
+TfrmGraph2DManager.chkLineVisible=显示~!@#$Visible~!@#$
+TfrmGraph2DManager.chkPointVisible=显示~!@#$Visible~!@#$
+TfrmGraph2DManager.edtparamcount=多项式~!@#$Params~!@#$
+TfrmGraph2DManager.GroupBox2=名称~!@#$Name~!@#$
+TfrmGraph2DManager.GroupBox3=曲线设置~!@#$Line Style~!@#$
+TfrmGraph2DManager.grp1=数据点设置~!@#$Point style~!@#$
+TfrmGraph2DManager.JvLabel1=公式~!@#$Forumla~!@#$
+TfrmGraph2DManager.Label1=颜色~!@#$Color~!@#$
+TfrmGraph2DManager.Label13=名称:~!@#$Name:~!@#$
+TfrmGraph2DManager.Label2=大小~!@#$Size~!@#$
+TfrmGraph2DManager.Label22=均方差:~!@#$mean square deviation:~!@#$
+TfrmGraph2DManager.Label23=均方差根:~!@#$root mean square deviation:~!@#$
+TfrmGraph2DManager.Label24=表达式：~!@#$Forumla:~!@#$
+TfrmGraph2DManager.lbl1=样式~!@#$Style~!@#$
+TfrmGraph2DManager.lbl2=颜色~!@#$Color~!@#$
+TfrmGraph2DManager.lbl3=大小~!@#$Size~!@#$
+TfrmGraph2DManager.lbl4=样式~!@#$Style~!@#$
+TfrmGraph2DManager.N11=数据线操作菜单~!@#$Menu~!@#$
+TfrmGraph2DManager.RzMenuButton1=曲线操作~!@#$Analysis~!@#$
+TfrmGraph2DManager.suiInputDialog1=参数~!@#$Parameters~!@#$
+TfrmGraph2DManager.ts1=参数~!@#$Parameters~!@#$
+TfrmGraph2DManager.ts2=数据表~!@#$DataTable~!@#$
+TfrmGraph2DManager.ts3=属性设置~!@#$setup~!@#$
+
+[Hints]
+TfrmGraph2DManager.actCleanData=删除数据~!@#$Delete data~!@#$
+TfrmGraph2DManager.actCopyLine=重叠显示~!@#$Curve duplication~!@#$
+TfrmGraph2DManager.actCosFit=余弦拟合~!@#$Cosine fit~!@#$
+TfrmGraph2DManager.actDiff=差分~!@#$Difference~!@#$
+TfrmGraph2DManager.actDiffDeltaXY=导数~!@#$Difference quotient~!@#$
+TfrmGraph2DManager.actDifferentialLine=微分曲线~!@#$Differential curve~!@#$
+TfrmGraph2DManager.actExpLine=指数拟合~!@#$Exponential fit~!@#$
+TfrmGraph2DManager.actGaussian=高斯拟合~!@#$Gaussian fit~!@#$
+TfrmGraph2DManager.actIntegralLine=积分~!@#$Integration~!@#$
+TfrmGraph2DManager.actLnLine=对数拟合~!@#$Logarithmic fit~!@#$
+TfrmGraph2DManager.actLogarithmic=对数拟合~!@#$Logarithmic fit~!@#$
+TfrmGraph2DManager.actPolynomLine=多项式拟合~!@#$Polynomial fit~!@#$
+TfrmGraph2DManager.actReciprocal=倒数拟合~!@#$Reciprocal fit~!@#$
+TfrmGraph2DManager.actRemoveIntegral=取消积分~!@#$Delete integration~!@#$
+TfrmGraph2DManager.actRemoveLine=删除曲线~!@#$Delete curve~!@#$
+TfrmGraph2DManager.actSinFit=正弦拟合~!@#$Sine fit~!@#$
+TfrmGraph2DManager.actSmooth=平滑曲线~!@#$Smoothing~!@#$
+TfrmGraph2DManager.btnExportExcel=导出Excel...~!@#$Save to Excel...~!@#$
+TfrmGraph2DManager.RzMenuButton1=曲线操作~!@#$Analysis~!@#$
+TfrmGraph2DManager.SpeedButton1=增加行~!@#$add data~!@#$
+TfrmGraph2DManager.SpeedButton2=插入行~!@#$Insert data~!@#$
+TfrmGraph2DManager.SpeedButton3=删除行~!@#$Delete data~!@#$
+TfrmGraph2DManager.SpeedButton4=保存数据~!@#$Save data~!@#$
+TfrmGraph2DManager.BtnDown=下移~!@#$Down~!@#$
+TfrmGraph2DManager.BtnUp=上移~!@#$Up~!@#$
+TfrmGraph2DManager.RzBitBtn1=隐藏~!@#$Hide~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TfrmGraph2DManager.cbLineColor.OtherBtnCaption=其他颜色...~!@#$Other color...~!@#$
+TfrmGraph2DManager.cbPointColor.OtherBtnCaption=其他颜色...~!@#$Other color...~!@#$
+TfrmGraph2DManager.edtparamcount.ButtonCancelCaption=取消~!@#$Cancel~!@#$
+TfrmGraph2DManager.edtparamcount.ButtonOKCaption=确定~!@#$OK~!@#$
+TfrmGraph2DManager.edtparamcount.PromptText=请输入多项式的项数(1-7):~!@#$number of  polynomial terms (1-7):~!@#$
+TfrmGraph2DManager.suiInputDialog1.ButtonCancelCaption=取消~!@#$Cancel~!@#$
+TfrmGraph2DManager.suiInputDialog1.ButtonOKCaption=确定~!@#$OK~!@#$
+TfrmGraph2DManager.suiInputDialog1.PromptText=请输入周期个数:~!@#$number of periods:~!@#$

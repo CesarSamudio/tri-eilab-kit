@@ -1,0 +1,12 @@
+[Captions]
+TFMain.btnClear=清除~!@#$Clear~!@#$
+TFMain.btnExit=退出~!@#$Exit~!@#$
+TFMain.btnExport=导出~!@#$Export~!@#$
+TFMain.Label2=文件名：~!@#$File name:~!@#$
+TFMain.lblCaption=实验数据导出工具~!@#$Export Setup Files~!@#$
+TFMain.TFMain=导出向导~!@#$Export Setup Files~!@#$
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+[OPTIONS]
+DELIMITER=~!@#$

@@ -1,0 +1,90 @@
+;LanguageID=2052
+;LanguageName=中文(中国)
+;TranslationAuthor=
+;TranslationAuthorEmail=
+
+[UI]
+;[TFRecompense]
+TFRecompense_Btn_BC=补偿
+TFRecompense_Btn_JL=校零
+TFRecompense_Btn_BD=标定
+TFRecompense_WD=温度：
+TFRecompense_SZ=数值：
+TFRecompense_QY=气压：
+TFRecompense_AutoT_Q=选择自动温度补偿时，温度传感器必须插入待测气体中。
+TFRecompense_AutoT_Y=选择自动温度补偿时，温度传感器必须插入待测液体中。
+TFRecompense_GB_CO2_C1_Caption= 1.标定液(二氧化碳传感器必须放入标定气体中)
+TFRecompense_GB_DDL_Check_Caption= 1.试剂标定（电导率传感器必须放入标定液中）
+TFRecompense_GB_DDL_Input_Caption= 2.手动输入
+TFRecompense_Gb_Ph_1_Caption= 1.标定液一（PH值传感器必须放入标定液一中）
+TFRecompense_Gb_Ph_2_Caption= 2.标定液二（PH值传感器必须放入标定液二中）
+TFRecompense_Label2_Caption=PH值：
+TFRecompense_Label29_Caption=电导系数由：
+TFRecompense_Label35_Caption=浓度：
+TFRecompense_Label4_Caption=PH值：
+TFRecompense_Label41_Caption=亚硝酸根：
+TFRecompense_Label44_Caption=亚硝酸根：
+TFRecompense_RB_DDL_Check_Caption=试剂标定
+TFRecompense_RB_DDL_Input_Caption=手动输入
+TFRecompense_RbAuto_Caption=自动温度补偿
+TFRecompense_RbHand_Caption=手动温度补偿
+TFRecompense_RbOnePoint_Caption=一点标定
+TFRecompense_RbTwoPoint_Caption=两点标定
+TFRecompense_RzGroupBox1_Caption= 1.校零（溶解氧传感器必须放入无氧水或氮气中）
+TFRecompense_RzGroupBox10_Caption= 4.待测气体（气中氧传感器必须放入待测气体中）
+TFRecompense_RzGroupBox11_Caption= 2.实际大气压
+TFRecompense_RzGroupBox12_Caption= 2.待测气体（二氧化碳传感器必须放入待测气体中） 
+TFRecompense_RzGroupBox13_Caption= 1.标定液一(亚硝酸根传感器必须放入标定液一中） 
+TFRecompense_RzGroupBox14_Caption= 2.标定液二(亚硝酸根传感器必须放入标定液二中） 
+TFRecompense_RzGroupBox15_Caption= 3.待测液（亚硝酸根传感器必须放入待测液中） 
+TFRecompense_RzGroupBox2_Caption= 3.标定（溶解氧传感器必须放在空气中或饱和氧水中）
+TFRecompense_RzGroupBox3_Caption= 3.待测液（PH值传感器必须放入待测液中） 
+TFRecompense_RzGroupBox4_Caption= 1.温度补偿 
+TFRecompense_RzGroupBox5_Caption= 4.待测液（溶解氧传感器必须放入待测液中）
+TFRecompense_RzGroupBox6_Caption= 2.实际大气压
+TFRecompense_RzGroupBox7_Caption= 1.校零（气中氧传感器必须放入氮气或无氧环境中）
+TFRecompense_RzGroupBox8_Caption= 3.标定（气中氧传感器必须放在空气中）
+TFRecompense_RzGroupBox9_Caption= 3.待测液（电导率传感器必须放入待测液中）
+
+;[TFSensorReset]
+TFSensorReset_BtnExit_Caption=退出
+TFSensorReset_Cl1_Caption=清除
+TFSensorReset_Cl2_Caption=清除
+TFSensorReset_Cl3_Caption=清除
+TFSensorReset_cl4_Caption=清除
+TFSensorReset_Label1_Caption=[无传感器]
+TFSensorReset_Label2_Caption=[无传感器]
+TFSensorReset_Label3_Caption=[无传感器]
+TFSensorReset_Label4_Caption=[无传感器]
+TFSensorReset_Rs1_Caption=校零
+TFSensorReset_rs2_Caption=校零
+TFSensorReset_rs3_Caption=校零
+TFSensorReset_rs4_Caption=校零
+TFSensorReset_RzPanel1_Caption=传感器校零及补偿
+
+[SOURCE]
+;[PUB]-[URecompense]	
+URecompense_PH1=请将PH值传感器插入标定液一中。
+URecompense_PH2=请将PH值传感器插入标定液二中。
+URecompense_DO0=请将溶解氧传感器放入无氧水或氮气中。
+URecompense_DOB=请将溶解氧传感器插入标定液中。
+URecompense_TempNum=您在采集器上插入 %d 个温度传感器，请只保留一个即可。
+URecompense_TempNotExist=温度传感器不存在，不能进行自动补偿。
+URecompense_DDB=请将电导率传感器插入标定液中。
+URecompense_QO0=请将气中氧传感器放入无氧水或氮气中。
+URecompense_QOB=请将气中氧传感器放在空气中。
+URecompense_CO2B=请将二氧化碳传感器插入标定液一中。
+URecompense_NO21=请将亚硝酸根传感器插入标定液一中。
+URecompense_NO22=请将亚硝酸根传感器插入标定液二中。
+	
+;[PUB]-[USensorReset]	
+USensorReset_NO=该传感器不需要校零。
+USensorReset_NOSensor=[无传感器]
+USensorReset_JL=校零
+USensorReset_BC=补偿
+USensorReset_Sensor=传感器
+
+UMsgBox_Info:String =信息
+UMsgBox_Error:String =错误
+UMsgBox_Warn:String =警告
+UMsgBox_Confirm:String =确认

@@ -1,0 +1,16 @@
+[Captions]
+TSpeedTest.dxfGroupBox1=设置~!@#$Configurar ~!@#$
+TSpeedTest.dxfGroupBox2=结果~!@#$resultado~!@#$
+TSpeedTest.dxfLabel2=传感器距离(m)~!@#$Distancia de sensor(m)~!@#$
+TSpeedTest.dxfLabel3=声速(m/s)~!@#$Velocidad de sonido(m/s)~!@#$
+TSpeedTest.JvXPButton1=确定~!@#$Determinar ~!@#$
+TSpeedTest.suiForm1=测速~!@#$Medir la velocidad~!@#$
+TSpeedTest.TSpeedTest=测速~!@#$Medir la velocidad~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+DELIMITER=~!@#$
+

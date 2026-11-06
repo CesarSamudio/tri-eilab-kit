@@ -1,0 +1,14 @@
+[Captions]
+TFInterface.Label1=采集器选择~!@#$Selecci髇 de colector~!@#$
+TFInterface.Label2=语言选择~!@#$Selecci髇 de lenguaje~!@#$
+TFInterface.Label3=界面选择~!@#$Selecci髇 de interface~!@#$
+TFInterface.RzBitBtn1=确定~!@#$Determinar ~!@#$
+TFInterface.TFInterface=设置~!@#$Configurar ~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

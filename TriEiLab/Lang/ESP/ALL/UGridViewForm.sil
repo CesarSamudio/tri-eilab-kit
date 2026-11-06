@@ -1,0 +1,17 @@
+[Captions]
+TFGridViewForm.FGridViewForm=变量编辑~!@#$Editar variable~!@#$
+
+[Hints]
+TFGridViewForm.spAdd=增加变量~!@#$Agregar variable~!@#$
+TFGridViewForm.spColSet=数据列选择...~!@#$Seleccionar columna de datos~!@#$
+TFGridViewForm.spDel=删除变量~!@#$Borrar variable~!@#$
+TFGridViewForm.spExportExcel=保存为Excel...~!@#$Guardar como Excel...~!@#$
+TFGridViewForm.spFunc=公式编辑~!@#$Editar fórmula~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+DELIMITER=~!@#$
+

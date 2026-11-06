@@ -1,0 +1,28 @@
+[Captions]
+TFFuncEdit.btnAdd=增加~!@#$Agregar ~!@#$
+TFFuncEdit.btnDelete=删除~!@#$Borrar ~!@#$
+TFFuncEdit.btnExit=退出~!@#$Salir ~!@#$
+TFFuncEdit.dxDBGridfvcFormula=公式~!@#$F髍mula~!@#$
+TFFuncEdit.dxDBGridfvcName=名称~!@#$nombre~!@#$
+TFFuncEdit.dxDBGridfvcUnit=单位~!@#$Unidad ~!@#$
+TFFuncEdit.dxDBGridfvcVarName=变量名~!@#$Nombre de variable~!@#$
+TFFuncEdit.Label1=名称~!@#$nombre~!@#$
+TFFuncEdit.Label2=单位~!@#$Unidad ~!@#$
+TFFuncEdit.Label3=变量名~!@#$Nombre de variable~!@#$
+TFFuncEdit.Label4=公式~!@#$F髍mula~!@#$
+TFFuncEdit.Label5=起始值~!@#$Valor inicial~!@#$
+TFFuncEdit.Label6=类型~!@#$tipo~!@#$
+TFFuncEdit.Label7=同步变量~!@#$Variable de sincronizaci髇~!@#$
+TFFuncEdit.Label8=增量~!@#$Cantidad incrementada~!@#$
+TFFuncEdit.rbConst=变量~!@#$variable~!@#$
+TFFuncEdit.rbFormula=公式~!@#$F髍mula~!@#$
+TFFuncEdit.rbParam=增量~!@#$Cantidad incrementada~!@#$
+TFFuncEdit.TFFuncEdit=公式编辑~!@#$Editar F髍mula~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

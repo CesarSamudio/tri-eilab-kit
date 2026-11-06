@@ -1,0 +1,43 @@
+[Captions]
+TFWelcome.AcCalibration=校准~!@#$Calibration~!@#$
+TFWelcome.AcCCD=CCD光分布~!@#$CCD Light Distribution~!@#$
+TFWelcome.AcExit=退出~!@#$Exit~!@#$
+TFWelcome.AcExport=导出实验文件~!@#$Export remote~!@#$
+TFWelcome.AcLoadHistory=打开导出文件~!@#$Exported Files~!@#$
+TFWelcome.AcNewExpr=新建实验~!@#$New~!@#$
+TFWelcome.AcOpenExpr=打开实验~!@#$WorkSheet~!@#$
+TFWelcome.AcSetup=设置~!@#$Setup~!@#$
+TFWelcome.AcSound=声音软件~!@#$Sound~!@#$
+TFWelcome.Label1=设置~!@#$Setup~!@#$
+TFWelcome.Label2=新建实验~!@#$New~!@#$
+TFWelcome.Label3=校准~!@#$Calibration~!@#$
+TFWelcome.Label4=CCD光分布~!@#$CCD~!@#$
+TFWelcome.Label5=声音软件~!@#$Sound~!@#$
+TFWelcome.Label6=导出实验文件~!@#$Export remote~!@#$
+TFWelcome.Label7=打开实验~!@#$WorkSheet~!@#$
+TFWelcome.Label8=打开导出文件~!@#$Exported Files~!@#$
+TFWelcome.Label9=退出~!@#$Exit~!@#$
+TFWelcome.RzGroupBox1=实验~!@#$Experiment~!@#$
+TFWelcome.RzGroupBox2=设置~!@#$Setup~!@#$
+TFWelcome.RzGroupBox3=打开~!@#$Open~!@#$
+
+[Hints]
+TFWelcome.AcCalibration=校准~!@#$Calibration~!@#$
+TFWelcome.AcCCD=CCD光分布~!@#$CCD Light Distribution~!@#$
+TFWelcome.AcExit=退出~!@#$Exit~!@#$
+TFWelcome.AcExport=导出实验文件~!@#$Export remote~!@#$
+TFWelcome.AcLoadHistory=打开导出文件~!@#$Exported Files~!@#$
+TFWelcome.AcNewExpr=新建实验~!@#$New~!@#$
+TFWelcome.AcOpenExpr=打开实验~!@#$WorkSheet~!@#$
+TFWelcome.AcSound=声音软件~!@#$Sound~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TFWelcome.OpenDialog.Filter=WorkSheet Files(*.xml;*.des)|*.xml;*.des~!@#$WorkSheet Files(*.xml;*.des)|*.xml;*.des~!@#$
+TFWelcome.OpenHistory.Filter=导出实验文件(*.swr)|*.swr~!@#$Exported Files(*.swr)|*.swr~!@#$

@@ -1,0 +1,93 @@
+[Captions]
+TfrmGraph2DManager.actCleanData=É¾³ıÊı¾İ~!@#$Borrar los dator~!@#$
+TfrmGraph2DManager.actCopyLine=ÖØµşÏÔÊ¾~!@#$Visualización revestida~!@#$
+TfrmGraph2DManager.actCosFit=ÓàÏÒÄâºÏ~!@#$Adaptación de coseno~!@#$
+TfrmGraph2DManager.actDiff=²î·Ö~!@#$Diferencia ~!@#$
+TfrmGraph2DManager.actDiffDeltaXY=µ¼Êı~!@#$Derivativo ~!@#$
+TfrmGraph2DManager.actDifferentialLine=Î¢·ÖÇúÏß~!@#$Curva diferencial~!@#$
+TfrmGraph2DManager.actExpLine=Ö¸ÊıÄâºÏ~!@#$Adaptación de exponente~!@#$
+TfrmGraph2DManager.actfft=FFT~!@#$FFT~!@#$
+TfrmGraph2DManager.actGaussian=¸ßË¹ÄâºÏ~!@#$Adaptación de Gauss~!@#$
+TfrmGraph2DManager.actHyperbolic=Ë«ÇúÄâºÏ~!@#$Adaptación hiperbólica~!@#$
+TfrmGraph2DManager.actIntegralLine=»ı·Ö~!@#$Integración~!@#$
+TfrmGraph2DManager.actLine=Ö±ÏßÄâºÏ~!@#$Adaptación de línea recta~!@#$
+TfrmGraph2DManager.actLnLine=¶ÔÊıÄâºÏ~!@#$Adaptación de logaritmo~!@#$
+TfrmGraph2DManager.actLogarithmic=¶ÔÊıÄâºÏ~!@#$Adaptación de logaritmo~!@#$
+TfrmGraph2DManager.actParabolic=Å×ÎïÏßÄâºÏ~!@#$Adaptación de parábola~!@#$
+TfrmGraph2DManager.actPoly=¶àÏîÊ½ÄâºÏ~!@#$Adaptación de polinomio~!@#$
+TfrmGraph2DManager.actPolynomLine=¶àÏîÊ½ÄâºÏ~!@#$Adaptación de polinomio~!@#$
+TfrmGraph2DManager.actReciprocal=µ¹ÊıÄâºÏ~!@#$Adaptación de número recíproco~!@#$
+TfrmGraph2DManager.actRemoveIntegral=È¡Ïû»ı·Ö~!@#$Cancelar la integración~!@#$
+TfrmGraph2DManager.actRemoveLine=É¾³ıÇúÏß~!@#$Borrar la curva~!@#$
+TfrmGraph2DManager.actSinFit=ÕıÏÒÄâºÏ~!@#$Adaptación de seno~!@#$
+TfrmGraph2DManager.actSmooth=Æ½»¬ÇúÏß~!@#$Curva lisa~!@#$
+TfrmGraph2DManager.actSplineLine=SplineLine~!@#$SplineLine~!@#$
+TfrmGraph2DManager.chkLineVisible=ÏÔÊ¾~!@#$Visualización~!@#$
+TfrmGraph2DManager.chkPointVisible=ÏÔÊ¾~!@#$visualización~!@#$
+TfrmGraph2DManager.edtparamcount=¶àÏîÊ½~!@#$polinomio~!@#$
+TfrmGraph2DManager.GroupBox2=Ãû³Æ~!@#$nombre~!@#$
+TfrmGraph2DManager.GroupBox3=ÇúÏßÉèÖÃ~!@#$Configuración de curvas~!@#$
+TfrmGraph2DManager.grp1=Êı¾İµãÉèÖÃ~!@#$Configuración de puntos de datos~!@#$
+TfrmGraph2DManager.JvLabel1=¹«Ê½~!@#$Fórmula~!@#$
+TfrmGraph2DManager.Label1=ÑÕÉ«~!@#$Color ~!@#$
+TfrmGraph2DManager.Label13=Ãû³Æ:~!@#$nombre~!@#$
+TfrmGraph2DManager.Label2=´óĞ¡~!@#$tamaño~!@#$
+TfrmGraph2DManager.Label22=¾ù·½²î:~!@#$Desviación de media cuadrada~!@#$
+TfrmGraph2DManager.Label23=¾ù·½²î¸ù:~!@#$Raíz de desviación de media cuadrada~!@#$
+TfrmGraph2DManager.Label24=±í´ïÊ½£º~!@#$Expresión~!@#$
+TfrmGraph2DManager.lbl1=ÑùÊ½~!@#$modo~!@#$
+TfrmGraph2DManager.lbl2=ÑÕÉ«~!@#$Color~!@#$
+TfrmGraph2DManager.lbl3=´óĞ¡~!@#$tamaño~!@#$
+TfrmGraph2DManager.lbl4=ÑùÊ½~!@#$modo~!@#$
+TfrmGraph2DManager.N11=Êı¾İÏß²Ù×÷²Ëµ¥~!@#$Menú de operación para línea de datos~!@#$
+TfrmGraph2DManager.RzMenuButton1=ÇúÏß²Ù×÷~!@#$Operación en curva~!@#$
+TfrmGraph2DManager.suiInputDialog1=²ÎÊı~!@#$Parámetro~!@#$
+TfrmGraph2DManager.ts1=²ÎÊı~!@#$Parámetro~!@#$
+TfrmGraph2DManager.ts2=Êı¾İ±í~!@#$Tabla de datos~!@#$
+TfrmGraph2DManager.ts3=ÊôĞÔÉèÖÃ~!@#$Configuración de propiedad~!@#$
+
+[Hints]
+TfrmGraph2DManager.actCleanData=É¾³ıÊı¾İ~!@#$Delete data~!@#$
+TfrmGraph2DManager.actCopyLine=ÖØµşÏÔÊ¾~!@#$Curve duplication~!@#$
+TfrmGraph2DManager.actCosFit=ÓàÏÒÄâºÏ~!@#$Cosine fit~!@#$
+TfrmGraph2DManager.actDiff=²î·Ö~!@#$Difference~!@#$
+TfrmGraph2DManager.actDiffDeltaXY=µ¼Êı~!@#$Derivativo ~!@#$
+TfrmGraph2DManager.actDifferentialLine=Î¢·ÖÇúÏß~!@#$Curva diferencial~!@#$
+TfrmGraph2DManager.actExpLine=Ö¸ÊıÄâºÏ~!@#$Adaptación de exponente~!@#$
+TfrmGraph2DManager.actGaussian=¸ßË¹ÄâºÏ~!@#$Adaptación de Gauss~!@#$
+TfrmGraph2DManager.actIntegralLine=»ı·Ö~!@#$Integración~!@#$
+TfrmGraph2DManager.actLnLine=¶ÔÊıÄâºÏ~!@#$Adaptación de logaritmo~!@#$
+TfrmGraph2DManager.actLogarithmic=¶ÔÊıÄâºÏ~!@#$Adaptación de logaritmo~!@#$
+TfrmGraph2DManager.actPolynomLine=¶àÏîÊ½ÄâºÏ~!@#$Adaptación de polinomio~!@#$
+TfrmGraph2DManager.actReciprocal=µ¹ÊıÄâºÏ~!@#$Adaptación de número recíproco~!@#$
+TfrmGraph2DManager.actRemoveIntegral=È¡Ïû»ı·Ö~!@#$Cancelar la integración~!@#$
+TfrmGraph2DManager.actRemoveLine=É¾³ıÇúÏß~!@#$Borrar la curva~!@#$
+TfrmGraph2DManager.actSinFit=ÕıÏÒÄâºÏ~!@#$Adaptación de seno~!@#$
+TfrmGraph2DManager.actSmooth=Æ½»¬ÇúÏß~!@#$Curva lisa~!@#$
+TfrmGraph2DManager.BtnDown=ÏÂÒÆ~!@#$mover abajo~!@#$
+TfrmGraph2DManager.btnExportExcel=µ¼³öExcel...~!@#$Exportar Excel...~!@#$
+TfrmGraph2DManager.BtnUp=ÉÏÒÆ~!@#$mover arriba~!@#$
+TfrmGraph2DManager.RzBitBtn1=Òş²Ø~!@#$ocultar~!@#$
+TfrmGraph2DManager.RzMenuButton1=ÇúÏß²Ù×÷~!@#$Operación en curva~!@#$
+TfrmGraph2DManager.SpeedButton1=Ôö¼ÓĞĞ~!@#$Agregar línea~!@#$
+TfrmGraph2DManager.SpeedButton2=²åÈëĞĞ~!@#$Insertar línea~!@#$
+TfrmGraph2DManager.SpeedButton3=É¾³ıĞĞ~!@#$Borrar línea~!@#$
+TfrmGraph2DManager.SpeedButton4=±£´æÊı¾İ~!@#$Guardar datos~!@#$
+
+[Language names - for internal use only!]
+Language_1=¼òÌåÖĞÎÄ
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TfrmGraph2DManager.cbLineColor.OtherBtnCaption=ÆäËûÑÕÉ«...~!@#$Otros colores...~!@#$
+TfrmGraph2DManager.cbPointColor.OtherBtnCaption=ÆäËûÑÕÉ«...~!@#$Otros colores...~!@#$
+TfrmGraph2DManager.edtparamcount.ButtonCancelCaption=È¡Ïû~!@#$Cancelar ~!@#$
+TfrmGraph2DManager.edtparamcount.ButtonOKCaption=È·¶¨~!@#$Determinar ~!@#$
+TfrmGraph2DManager.edtparamcount.PromptText=ÇëÊäÈë¶àÏîÊ½µÄÏîÊı(1-7):~!@#$Introduzca el número de polinomio (1-7):~!@#$
+TfrmGraph2DManager.suiInputDialog1.ButtonCancelCaption=È¡Ïû~!@#$Cancelar ~!@#$
+TfrmGraph2DManager.suiInputDialog1.ButtonOKCaption=È·¶¨~!@#$Determinar ~!@#$
+TfrmGraph2DManager.suiInputDialog1.PromptText=ÇëÊäÈëÖÜÆÚ¸öÊı:~!@#$Introduzca el número de período~!@#$
+

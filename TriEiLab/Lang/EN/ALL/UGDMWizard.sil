@@ -1,0 +1,26 @@
+[Captions]
+TFGDMWizard.cbAllSync=同一光电门数据时间同步~!@#$The same Photogate data time synchronization~!@#$
+TFGDMWizard.cbGDMTrigger=光电门传感器、滴定传感器触发采集~!@#$Trigger by Photogate or Titration~!@#$
+TFGDMWizard.clBlockType=选择挡光片类型~!@#$Choose interrupt card~!@#$
+TFGDMWizard.clTestValue=选择被测物理量~!@#$Quantity(ies) to be Measured~!@#$
+TFGDMWizard.Label3=数据：~!@#$Data:~!@#$
+TFGDMWizard.Label1=数据：~!@#$Data:~!@#$
+TFGDMWizard.rbExprType=选择实验类型~!@#$Experiment type~!@#$
+TFGDMWizard.rbTestType=选择测量方式~!@#$Method of measurement~!@#$
+TFGDMWizard.t1exit=退出~!@#$Exit~!@#$
+TFGDMWizard.t1Next=下一步~!@#$Next~!@#$
+TFGDMWizard.t2Exit=退出~!@#$Exit~!@#$
+TFGDMWizard.t2Left=上一步~!@#$Back~!@#$
+TFGDMWizard.t2Right=下一步~!@#$Next~!@#$
+TFGDMWizard.t3Exit=退出~!@#$Exit~!@#$
+TFGDMWizard.t3Left=上一步~!@#$Back~!@#$
+TFGDMWizard.t3Right=完成~!@#$Finish~!@#$
+TFGDMWizard.TFGDMWizard=光电门、滴定设置~!@#$Photogate and Titration Setup~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

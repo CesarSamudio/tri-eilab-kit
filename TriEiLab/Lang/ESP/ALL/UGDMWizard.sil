@@ -1,0 +1,26 @@
+[Captions]
+TFGDMWizard.cbAllSync=同一光电门数据时间同步~!@#$Sincronizaci髇 de tiempo para datos de la misma puerta fotoel閏trica~!@#$
+TFGDMWizard.cbGDMTrigger=光电门传感器、滴定传感器触发采集~!@#$Adquisici髇 para activar el sensor de puerta fotoel閏trica y el sensor de titulaci髇~!@#$
+TFGDMWizard.clBlockType=选择挡光片类型~!@#$Elegir el tipo de bloque de rayos~!@#$
+TFGDMWizard.clTestValue=选择被测物理量~!@#$Elegir la cantidad f韘ica para medir~!@#$
+TFGDMWizard.Label1=数据：~!@#$Datos ~!@#$
+TFGDMWizard.Label3=数据：~!@#$Datos ~!@#$
+TFGDMWizard.rbExprType=选择实验类型~!@#$Elegir el tipo de experimento~!@#$
+TFGDMWizard.rbTestType=选择测量方式~!@#$Elegir la forma de medida~!@#$
+TFGDMWizard.t1exit=退出~!@#$Salir ~!@#$
+TFGDMWizard.t1Next=下一步~!@#$Siguiente ~!@#$
+TFGDMWizard.t2Exit=退出~!@#$Salir ~!@#$
+TFGDMWizard.t2Left=上一步~!@#$Atr醩~!@#$
+TFGDMWizard.t2Right=下一步~!@#$Siguiente ~!@#$
+TFGDMWizard.t3Exit=退出~!@#$Salir ~!@#$
+TFGDMWizard.t3Left=上一步~!@#$Atr醩~!@#$
+TFGDMWizard.t3Right=完成~!@#$Completar ~!@#$
+TFGDMWizard.TFGDMWizard=光电门、滴定设置~!@#$Configuraci髇 de puerta fotoel閏trica y titulaci髇~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

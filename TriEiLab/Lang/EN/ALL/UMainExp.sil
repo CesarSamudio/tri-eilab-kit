@@ -1,0 +1,44 @@
+[Captions]
+TFMainExp.AcCalibration=校准~!@#$Calibration~!@#$
+TFMainExp.AcCCD=CCD光分布~!@#$CCD Light Distribution~!@#$
+TFMainExp.AcExit=退出~!@#$Exit~!@#$
+TFMainExp.AcExport=导出实验文件~!@#$Export remote~!@#$
+TFMainExp.AcLoadHistory=打开导出文件~!@#$Exported Files~!@#$
+TFMainExp.AcNewExpr=新建实验~!@#$New~!@#$
+TFMainExp.AcOpenExpr=打开实验~!@#$WorkSheet~!@#$
+TFMainExp.AcSetup=设置~!@#$Setup~!@#$
+TFMainExp.AcSound=声音软件~!@#$Sound~!@#$
+TFMainExp.Label1=设置~!@#$Setup~!@#$
+TFMainExp.Label2=新建实验~!@#$New~!@#$
+TFMainExp.Label3=校准~!@#$Calibration~!@#$
+TFMainExp.Label4=CCD光分布~!@#$CCD~!@#$
+TFMainExp.Label5=声音软件~!@#$Sound~!@#$
+TFMainExp.Label6=导出实验文件~!@#$Export remote~!@#$
+TFMainExp.Label7=打开实验~!@#$WorkSheet~!@#$
+TFMainExp.Label8=打开导出文件~!@#$Exported Files~!@#$
+TFMainExp.Label9=退出~!@#$Exit~!@#$
+TFMainExp.RzGroupBox1=实验~!@#$Experiment~!@#$
+TFMainExp.RzGroupBox2=设置~!@#$Setup~!@#$
+TFMainExp.RzGroupBox3=打开~!@#$Open~!@#$
+TFMainExp.BtnComeIN=进入~!@#$Enter~!@#$
+
+[Hints]
+TFMainExp.AcCalibration=校准~!@#$Calibration~!@#$
+TFMainExp.AcCCD=CCD光分布~!@#$CCD Light Distribution~!@#$
+TFMainExp.AcExit=退出~!@#$Exit~!@#$
+TFMainExp.AcExport=导出实验文件~!@#$Export remote~!@#$
+TFMainExp.AcLoadHistory=打开导出文件~!@#$Exported Files~!@#$
+TFMainExp.AcNewExpr=新建实验~!@#$New~!@#$
+TFMainExp.AcOpenExpr=打开实验~!@#$WorkSheet~!@#$
+TFMainExp.AcSound=声音软件~!@#$Sound~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+
+[Other]
+TFMainExp.OpenDialog.Filter=WorkSheet Files(*.xml;*.des)|*.xml;*.des~!@#$WorkSheet Files(*.xml;*.des)|*.xml;*.des~!@#$
+TFMainExp.OpenHistory.Filter=导出实验文件(*.swr)|*.swr~!@#$Exported Files(*.swr)|*.swr~!@#$

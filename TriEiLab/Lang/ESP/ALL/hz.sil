@@ -1,0 +1,16 @@
+[Captions]
+TfHz.dxfGroupBox1=设置~!@#$Configurar ~!@#$
+TfHz.dxfGroupBox2=结果~!@#$Resultado ~!@#$
+TfHz.dxfLabel2=波形个数~!@#$N鷐ero de onda~!@#$
+TfHz.dxfLabel3=频率(Hz)~!@#$Frecuencia(Hz)~!@#$
+TfHz.JvXPButton1=确定~!@#$Determinar  ~!@#$
+TfHz.suiForm1=测频率~!@#$Medir la frecuencia~!@#$
+TfHz.TfHz=测频率~!@#$Medir la frecuencia~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+DELIMITER=~!@#$
+

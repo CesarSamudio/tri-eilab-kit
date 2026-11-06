@@ -1,0 +1,15 @@
+[Captions]
+TSoundFrm.dxfLabel1=选区宽度~!@#$Selection width~!@#$
+TSoundFrm.lbl1=采集时间~!@#$Record time~!@#$
+TSoundFrm.lbl2=秒~!@#$second~!@#$
+TSoundFrm.RzBitBtn1=单通道~!@#$Single~!@#$
+TSoundFrm.RzBitBtn2=双通道~!@#$Dual~!@#$
+TSoundFrm.RzBitBtn3=清除~!@#$Clear~!@#$
+TSoundFrm.RzBitBtn4=测速~!@#$Speed~!@#$
+TSoundFrm.RzBitBtn5=测频率~!@#$Frequency~!@#$
+TSoundFrm.ts1=波形~!@#$Wave~!@#$
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+[OPTIONS]
+DELIMITER=~!@#$

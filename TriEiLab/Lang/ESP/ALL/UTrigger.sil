@@ -1,0 +1,16 @@
+[Captions]
+TFTrigger.edtExit=取消~!@#$Cancelar ~!@#$
+TFTrigger.edtOk=确定~!@#$Determinar ~!@#$
+TFTrigger.Label1=通道~!@#$Canal ~!@#$
+TFTrigger.Label3=条件~!@#$Condici髇~!@#$
+TFTrigger.rbno=无触发~!@#$Sin activaci髇~!@#$
+TFTrigger.rbYes=传感器触发~!@#$Activar el sensor~!@#$
+TFTrigger.TFTrigger=触发设置~!@#$Configurar la activaci髇~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

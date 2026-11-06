@@ -1,0 +1,47 @@
+TRIE iLAB v8.0  -  COMO INSTALAR EN UNA LAPTOP (Windows 11 o 10)
+================================================================
+
+QUE HAY QUE HACER
+-----------------
+1. Copia esta carpeta completa a la laptop (USB, Drive, lo que sea).
+2. Descomprime TODO el ZIP si venia comprimido. Que la estructura quede asi:
+
+      TriEiLab-Kit\
+         INSTALAR EN LAPTOP.cmd
+         TriEiLab\
+            DIS.exe
+            CH375DLL.DLL
+            CCD.exe
+            Sound.exe
+            Driver\
+            Lang\
+
+3. Clic derecho sobre "INSTALAR EN LAPTOP.cmd" > "Ejecutar como administrador".
+4. Elige la opcion 2 (aplicacion + driver del sensor).
+5. Si dice "Quiere permitir este equipo...", acepta con "Si".
+
+QUE HACE EL INSTALADOR
+----------------------
+- Copia CH375DLL.DLL junto a DIS.exe.  (ESTE es el arreglo: sin esto sale el
+  error "La ejecucion de codigo no puede continuar porque no se encontro
+  CH375DLL.DLL". Windows solo busca DLLs en la carpeta del programa, nunca
+  en subcarpetas, y la DLL venia en la subcarpeta Driver.)
+- Le quita el bloqueo de Windows a los archivos (para que no salga el cartel
+  de "Windows protegio tu PC").
+- Crea el acceso directo "TriE iLab" en el Escritorio.
+- Instala el driver CH375 que necesita la caja del sensor.
+
+SI EL DRIVER NO SE INSTALA EN WINDOWS 11
+----------------------------------------
+Los drivers muy viejos (este es de 2011) son bloqueados si la laptop tiene
+"Integridad de memoria" activada:
+
+   Seguridad de Windows > Seguridad del dispositivo > Integridad de memoria
+   > Desactivar > Reiniciar > repetir la opcion 2.
+
+QUE NECESITAS
+-------------
+- Que la persona sea administradora de la laptop (para lo de pedir permisos).
+- La caja del instrumento conectada por USB para que el sensor aparezca.
+  Sin sensor, la app abre igual pero las pestañas dicen "Sin sensor".
+- Un reinicio puede ser necesario despues de instalar el driver.

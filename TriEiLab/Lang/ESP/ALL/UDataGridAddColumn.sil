@@ -1,0 +1,17 @@
+[Captions]
+TfrmDataGridAddColumn.Label1=选择同步变量~!@#$Seleccionar variable de sincronizaci髇~!@#$
+TfrmDataGridAddColumn.Label2=名称~!@#$nombre~!@#$
+TfrmDataGridAddColumn.Label3=单位~!@#$Unidad ~!@#$
+TfrmDataGridAddColumn.Label4=变量名~!@#$Nombre de variable~!@#$
+TfrmDataGridAddColumn.Label5=选择需要存的数据列~!@#$Seleccionar columnas de datos que se necesita para guardarse~!@#$
+TfrmDataGridAddColumn.RzBitBtn1=确定~!@#$Determinar ~!@#$
+TfrmDataGridAddColumn.RzBitBtn2=取消~!@#$Cancelar ~!@#$
+TfrmDataGridAddColumn.TfrmDataGridAddColumn=列选择~!@#$Selecci髇 de columna~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

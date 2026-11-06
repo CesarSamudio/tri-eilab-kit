@@ -1,0 +1,14 @@
+[Captions]
+TFGDMABSelect.Label1=光电门 A~!@#$Photogate A~!@#$
+TFGDMABSelect.Label2=光电门 B~!@#$Photogate B~!@#$
+TFGDMABSelect.t4exit=取消~!@#$Cancel~!@#$
+TFGDMABSelect.t4next=确定~!@#$OK~!@#$
+TFGDMABSelect.TFGDMABSelect=选择~!@#$Select~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

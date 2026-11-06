@@ -1,0 +1,13 @@
+[Captions]
+TfHz.dxfGroupBox1=设置~!@#$Setup~!@#$
+TfHz.dxfGroupBox2=结果~!@#$Result~!@#$
+TfHz.dxfLabel2=波形个数~!@#$Wave Number~!@#$
+TfHz.dxfLabel3=频率(Hz)~!@#$Frequency(Hz)~!@#$
+TfHz.JvXPButton1=确定~!@#$OK~!@#$
+TfHz.suiForm1=测频率~!@#$Measurement Frequency~!@#$
+TfHz.TfHz=测频率~!@#$Measurement Frequency~!@#$
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+[OPTIONS]
+DELIMITER=~!@#$

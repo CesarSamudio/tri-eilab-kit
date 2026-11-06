@@ -1,0 +1,38 @@
+[Captions]
+TFrameGraph2D.graph2D=图表~!@#$Diagrama ~!@#$
+TFrameGraph2D.N1=显示工具栏~!@#$Mostrar la barra de herramientas~!@#$
+TFrameGraph2D.N2=显示状态栏~!@#$Mostrar la barra de estado~!@#$
+TFrameGraph2D.N4=显示图例~!@#$Mostrar la leyenda~!@#$
+TFrameGraph2D.NConfig=图线管理器~!@#$Administrador de l韓eas~!@#$
+TFrameGraph2D.X1=X轴置于上端~!@#$Colocar el axis X en la parte superior~!@#$
+
+[Hints]
+TFrameGraph2D.btnDrawByHand=手工绘图~!@#$Dibujo a mano~!@#$
+TFrameGraph2D.btnMoveLineByHand=移动手工绘图线~!@#$Mover las l韓eas de dibujo a mano~!@#$
+TFrameGraph2D.btnZoomLineByHand=放缩手工绘图线~!@#$Zumbar las l韓eas de dibujo a mano~!@#$
+TFrameGraph2D.sbAutoSize=显示全部数据~!@#$Mostrar todos los datos~!@#$
+TFrameGraph2D.sbConfig=图线管理器...~!@#$Administrador de l韓eas de dibujo~!@#$
+TFrameGraph2D.sbCrossBoth=交叉参考线~!@#$L韓ea cruzada de referencia~!@#$
+TFrameGraph2D.sbMoveH=左右移动~!@#$Movimiento horizontal~!@#$
+TFrameGraph2D.sbMovePan=移动~!@#$movimiento~!@#$
+TFrameGraph2D.sbMoveV=上下移动~!@#$Movimiento vertical~!@#$
+TFrameGraph2D.sbNone=指针~!@#$韓dice~!@#$
+TFrameGraph2D.sbSave=保存图像...~!@#$Guardar imagen~!@#$
+TFrameGraph2D.sbSelect=选区~!@#$Zona seleccionada~!@#$
+TFrameGraph2D.sbSetXY=设置显示范围~!@#$Establecer el rango de visualizaci髇~!@#$
+TFrameGraph2D.sbZoomDrag=缩放~!@#$zumbar~!@#$
+TFrameGraph2D.sbZoomIn=放大~!@#$Ampliar ~!@#$
+TFrameGraph2D.sbZoomNormal=恢复缩放~!@#$Recuperar el zoom~!@#$
+TFrameGraph2D.sbZoomOut=缩小~!@#$Estrechar ~!@#$
+TFrameGraph2D.spDeletePoints=删除数据点~!@#$Borrar los puntos de datos~!@#$
+TFrameGraph2D.spDelMarker=删除标记~!@#$Eliminar etiqueta~!@#$
+TFrameGraph2D.SpLineEditer=编辑手工绘图线~!@#$Editar las l韓eas de dibujo a mano~!@#$
+TFrameGraph2D.spMarker=增加标记~!@#$Agregar etiqueta~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+Delimiter=~!@#$
+

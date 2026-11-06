@@ -1,0 +1,14 @@
+[Captions]
+TParam.grp1=参数~!@#$Params~!@#$
+TParam.grp2=结果~!@#$Result~!@#$
+TParam.lbl1=缝间距(mm)~!@#$Sews distance(mm)~!@#$
+TParam.lbl2=距离(cm)~!@#$Distance(cm)~!@#$
+TParam.lbl3=波长(nm)~!@#$Wavelength(nm)~!@#$
+TParam.suiButton1=计算~!@#$Calc~!@#$
+TParam.suiForm1=计算波长~!@#$Calc wavelength~!@#$
+TParam.TParam=计算波长~!@#$Calc wavelength~!@#$
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+[OPTIONS]
+DELIMITER=~!@#$

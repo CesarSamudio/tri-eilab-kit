@@ -1,0 +1,12 @@
+[Captions]
+TForm1.lbl1=选区宽度(mm)~!@#$Selection width~!@#$
+TForm1.RzBitBtn1=开始~!@#$Start~!@#$
+TForm1.RzBitBtn2=停止~!@#$Stop~!@#$
+TForm1.RzBitBtn3=计算~!@#$Calc~!@#$
+
+[Language names - for internal use only!]
+Language_1=简体中文
+Language_2=English
+
+[OPTIONS]
+DELIMITER=~!@#$
