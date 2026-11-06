@@ -1,5 +1,15 @@
 # TriE iLab V8.0 — fix de `CH375DLL.DLL` (Windows 10 / 11)
 
+> [!IMPORTANT]
+> **Trabajo escolar, con fines educativos y no comerciales.**
+> TriE iLab V8.0 es software propietario de **WCH / TriE (W.ch)**, el
+> fabricante de los instrumentos, y se incluye aquí porque venía en el CD del
+> equipo de medición con el que se hizo la práctica.
+> **No se modificó un solo byte** de los archivos del fabricante: lo único que
+> se hizo fue copiar `CH375DLL.DLL` a la carpeta de los ejecutables.
+> Lo que sí es trabajo propio es el diagnóstico, el instalador portable y las
+> herramientas de análisis. → Ver [`NOTICE.md`](./NOTICE.md)
+
 Este repo trae el **software de los instrumentos de medición** (TriE iLab V8.0)
 ya reparado, más el instalador portable para ponerlo funcionando en cualquier
 Windows 10/11 x64.
