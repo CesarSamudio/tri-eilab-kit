@@ -38,6 +38,32 @@ QUE HACE EL INSTALADOR
  - Instala el driver CH375 (PAQUETE OFICIAL DE WCH v3.6) que necesita la
    caja del instrumento cuando se conecta por USB-serie.
 
+SI YA INSTALTE LA VERSION v8.0-fix: NO HAY QUE DESINSTALAR NADA
+----------------------------------------------------------------
+La v8.0-fix intentaba instalar el driver del CD y ese intento FALLABA
+("El hash para el archivo no esta presente en el archivo de catalogo"), asi
+que en tu laptop NO quedo ningun driver de CH375 instalado. No hay nada que
+desinstalar.
+
+Lo unico que quedo de la v8.0-fix fue esto, y nada de eso estorba:
+ - La carpeta donde la descomprimiste (podes borrarla).
+ - El acceso directo "TriE iLab" en el Escritorio, apuntando a esa carpeta
+   vieja. El instalador nuevo lo vuelve a crear apuntando a la carpeta
+   nueva, asi que no hay que hacer nada.
+ - La CH375DLL.DLL junto a los .exe (esa hay que conservarla: es el arreglo).
+
+Lo que hay que hacer:
+ 1) Descomprimir la v8.1 en una carpeta nueva.
+ 2) Correr "INSTALAR EN LAPTOP.cmd" como administrador, opcion 2.
+ 3) NO volver a correr el instalador viejo: va a fallar otra vez con el
+    error del hash y no hace falta.
+
+Excepcion: si en el Administrador de dispositivos aparece el aparato como
+"Unknown Device" o "Dispositivo desconocido" (porque alguien enchufo la caja
+antes de tener el driver), despues de instalar: Administrador de dispositivos
+-> clic derecho en el aparato -> Desinstalar dispositivo (tildando "eliminar
+el software de controlador") -> desenchufar y volver a enchufar la caja.
+
 POR QUE EL DRIVER VIENE EN UNA CARPETA APARTE
 ---------------------------------------------
 El driver del CD (version 2.6, de 2011) NO se puede instalar en Windows

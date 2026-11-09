@@ -161,6 +161,35 @@ aunque todo esté bien conectado:
 
 ## 🔌 El sensor y el driver CH375 (WCH)
 
+### Si ya instalaste la v8.0-fix: no hace falta desinstalar nada
+
+La v8.0-fix **intentaba** instalar el driver del CD y ese intento **fallaba**
+(*"El hash para el archivo no está presente en el archivo de catálogo"*), así
+que en esas laptops **no quedó ningún driver CH375 instalado**. No hay nada
+que desinstalar.
+
+Verificado sobre una máquina en ese estado: el DriverStore solo tenía la
+entrada `oem64.inf` (la v3.6), **no había** ningún `CH375*.sys` en
+`System32\drivers`, ni en `System32`/`SysWOW64`, ni servicio `CH375*` en el
+registro. El `SETUP.EXE` del fabricante tampoco deja nada.
+
+Lo único que quedó de la v8.0-fix (y no estorba):
+
+- La carpeta donde se descomprimió → se puede borrar.
+- El acceso directo **"TriE iLab"** del Escritorio, apuntando a la carpeta
+  vieja → el instalador nuevo lo vuelve a crear apuntando a la nueva.
+- La `CH375DLL.DLL` junto a los `.exe` → **esa hay que conservarla**, es el
+  arreglo.
+
+**Qué hacer:** descomprimir la v8.1 en una carpeta nueva → correr
+`INSTALAR EN LAPTOP.cmd` (admin, opción 2) → **no** volver a correr el
+instalador viejo, que va a fallar otra vez con el error del hash.
+
+**Excepción:** si en el Administrador de dispositivos el aparato aparece como
+*"Unknown Device"* (porque alguien lo enchufó sin driver), después de
+instalar: desinstalar el dispositivo (tildando *"eliminar el software de
+controlador"*), desenchufar y volver a enchufar.
+
 Sin el sensor físico la app abre igual, pero las 4 pestañas de la pantalla
 principal muestran **"Sin sensor"**.
 
