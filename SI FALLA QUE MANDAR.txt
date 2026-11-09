@@ -1,0 +1,44 @@
+================================================================
+ SI NO FUNCIONA EN LOS 15 MIN - QUE ME MANDAS
+================================================================
+ No te quedes buscando solo: hacé esto (2 minutos) y mandámelo.
+ Con esto lo resuelvo DESPUES, sin que pierdas tiempo de clase.
+
+ 1) FOTO del Administrador de dispositivos, seccion "Conexiones
+    universales USB" (expandida) y "Adaptadores de red":
+      - aparece la caja como "TriE USB Connection"?
+      - o sale "Unknown Device" / "Dispositivo desconocido"?
+      - en Adaptadores de red: aparece alguna tarjeta nueva? como se
+        llama? (de eso depende el paso T=7)
+
+ 2) FOTO del cartel de error de la app, si aparece.
+    - Si el texto esta en CHINO: mandalo igual, yo lo decodifico
+      (los errores de esta app vienen en chino simplificado GBK).
+
+ 3) COPIAR el archivo de log y mandarlo:
+      %TEMP%\trieilab-instalar.log
+    (en Explorador: barra de direccion -> %TEMP% -> Enter)
+
+ 4) DECIRME estas 4 cosas:
+    - Que colector es: el EASY (logo EASY, 4 RJ45 frontales) /
+      el SUPER (caja redonda) / el SMART (con pantalla)
+    - Que laptop: Windows 10 o 11
+    - La app llego a abrirse? Si / No / Que error
+    - Que dice la pestana del sensor: "Sin sensor" u otra cosa
+
+ 5) Opcional pero util: foto de la app con la pestana de sensor
+    abierta y la curva o el valor mostrado.
+
+================================================================
+ LO QUE YA ESTA RESUELTO DE ANTEMANO (no te fragiles)
+================================================================
+ - El error clasico "no se encontro CH375DLL.DLL": YA ESTA ARREGLADO en
+   esta carpeta (la DLL va junto a DIS.exe).
+ - El driver CH375: se instala desde la carpeta oficial de WCH v3.6
+   (firmada por Microsoft, de 2026). El del CD no instalaba.
+ - Si el colector tiene RJ45, no hace falta ningun driver: Windows
+   lo pone solo al conectar.
+ - El driver RNDIS (Ethernet virtual) ya viene en Windows.
+
+ O sea: lo unico que puede fallar es el MODO DE INTERFAZ mal elegido
+ (T=7) o que el cable RJ45 no sea el del sistema. Por eso las fotos.

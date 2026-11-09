@@ -1,0 +1,82 @@
+================================================================
+ TRIE iLAB - PRUEBA RAPIDA EN 15 MINUTOS
+ (con sensor y con colector, o sin sensor si todavia no los tenes)
+================================================================
+
+T=0  CONECTAR  (2 min)
+----------------------------------------------------------------
+ 1) Sensor TS2104 --cable Cat5e--> un puerto RJ45 del COLECTOR
+    (elige el puerto 1; si no aparece, prueba el 2, 3 o 4).
+    OJO: el sensor NO se enchufa a la laptop, va al COLECTOR.
+
+ 2) COLECTOR --cable USB (Mini-B, el azul)--> LAPTOP
+    - Si tu colector es el EASY (caja blanca, logo EASY, 4 RJ45
+      frontales): ese mismo cable USB lo ALIMENTA. Listo.
+    - Si tu colector es el SUPER (caja blanca redonda): ponele 3
+      pilas AA, o el cable USB tambien lo alimenta.
+
+ 3) Enciende el colector (boton). DEBE quedar un LED verde fijo.
+    Si el LED no prende:
+      - cambia de puerto USB (probá USB-A trasero de la laptop)
+      - probá otro cable USB
+      - poné pilas AA
+      - si la laptop es solo USB-C: necesitás un adaptador USB-C a USB-A
+
+T=2  INSTALAR EN LA LAPTOP  (3 min, solo la primera vez)
+----------------------------------------------------------------
+ - Doble clic en "INSTALAR EN LAPTOP.cmd"
+ - "Ejecutar como administrador" -> Si (UAC)
+ - Opcion 2 (aplicacion + driver)
+ - Al final tiene que decir:  [OK] Driver CH375 instalado y verificado
+ - Si dice [AVISO], no pasa nada: anotalo y segui igual.
+ - Reiniciar la laptop SOLO si el aviso lo pide (no suele hacer falta).
+
+T=5  ABRIR LA APP  (2 min)
+----------------------------------------------------------------
+ - Doble clic en "TriE iLab" del Escritorio
+ - UAC "Si" (es normal: la app SIEMPRE pide administrador)
+ - Aparece "TriE iLab V8.0" (bienvenida) -> "Digital Information System"
+ - Si sale un cartel de error: FOTO y mandamela. No te trabes.
+
+T=7  ELEGIR EL MODO DE INTERFAZ  (2 min)  <-- el paso que mas se olvida
+----------------------------------------------------------------
+ - En la app: Setup / Ajustes -> Interface (Interfaz)
+ - Si el colector TIENE los 4 puertos RJ45 (Easy / Super):
+       modo = "Advance(USB)"
+ - Si el colector TIENE PANTALLA (Smart):
+       modo = "Smart(USB)"
+ - Advance usa Ethernet VIRTUAL por USB: Windows ya trae ese driver,
+   no hay que instalar nada extra. No teAlarmes por ver una tarjeta
+   de red nueva.
+
+T=9  VERIFICAR EL SENSOR  (3 min)
+----------------------------------------------------------------
+ - Las pestanas de sensor deberian mostrar la temperatura.
+ - Si dice "Sin sensor":
+     -> proba otro puerto RJ45 del colector (1 -> 2 -> 3 -> 4)
+     -> cerrá y abrí la app de nuevo
+     -> fijate que el modo de interfaz sea el correcto (T=7)
+ - Calibracion (solo si la app la pide):
+     "1. temperature" / "2. reference value"
+     -> poné SOLO la varilla de acero en hielo con sal = 0.0 C
+        como valor de referencia, y dale.
+     -> nunca mojes la base blanca ni el conector.
+
+T=12  GRABAR DATOS  (2 min)
+----------------------------------------------------------------
+ - Boton de experimento nuevo ("rapid experiment"): carpeta, tiempo de
+   captura e intervalo (100 ms sirve).
+ - Start -> esperá 30 s -> Stop
+ - Tiene que dibujar la curva.
+ - FOTO de la curva (sirve como prueba de que anduvo).
+
+T=14  SALIR  (1 min)
+----------------------------------------------------------------
+ - Exportar los datos (boton Export) al Escritorio.
+ - Guardar: foto de la curva + el archivo exportado.
+
+================================================================
+ SI EN LOS 15 MIN NO ANDA: NO TE QUEDES EN EL SALON
+================================================================
+ Manda "SI FALLA QUE MANDAR.txt" (esta misma carpeta). Es 2 minutos
+ de fotos y con eso lo resuelvo despues sin que pierdas la clase.
