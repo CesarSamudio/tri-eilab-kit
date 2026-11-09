@@ -48,9 +48,14 @@ no cargan.
 
 La carpeta Driver-Oficial-WCH-v3.6 trae el driver oficial del fabricante
 (descarga publica: https://www.wch-ic.com/download/file?id=28), version 3.6,
-firmado por Microsoft (WHQL). Es ademas mucho mas nuevo, asi que funciona
-en Windows 11 aunque tenga "Integridad de memoria" activada (el de 2011
-no). Si el instalador dice "[AVISO] El driver CH375 NO quedo instalado" y
+firmado por Microsoft (WHQL). Esta probado en Windows 10 Pro 19045: instala
+sin problemas. Es mucho mas nuevo, asi que en principio tambien funciona en
+Windows 11 aunque tenga "Integridad de memoria" (HVCI) activada, pero eso NO
+esta probado: si en la laptop el aparato no aparece, desactiva Integridad de
+memoria (Seguridad de Windows > Seguridad del dispositivo > Integridad de
+memoria > Desactivar), reinicia y repite la opcion 2.
+
+Si el instalador dice "[AVISO] El driver CH375 NO quedo instalado" y
 ademas el error del hash, estas usando el driver viejo: borra la carpeta
 Driver\ y deja solo Driver-Oficial-WCH-v3.6\.
 

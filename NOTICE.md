@@ -63,8 +63,15 @@ versión 2.6 de 2011) **no se puede instalar** en Windows moderno. Sus `.sys`
 no coinciden con el hash del catálogo firmado y Windows responde *"El hash
 para el archivo no está presente en el archivo de catálogo especificado"*;
 además no llevan firma embebida, así que sin catálogo válido no cargan. El
-paquete de 2026 sí instala y además funciona en Windows 11 con Integridad de
-memoria (HVCI) activada, cosa que el de 2011 no.
+paquete de 2026 sí instala (probado en Windows 10 Pro 19045: `pnputil
+/add-driver` → *"El paquete de controladores se agregó correctamente"*,
+publicado como `oem64.inf`).
+
+⚠️ **No está probado con "Integridad de memoria" (HVCI) activada**: la
+máquina de prueba la tenía apagada. Al ser un driver de 2026 firmado por
+Microsoft debería cumplir los requisitos de HVCI, pero eso no se ha
+verificado. Si en una laptop con HVCI no aparece el aparato, la guía dice
+qué hacer.
 
 Este driver **es de WCH, no mío**, y se redistribute tal como WCH lo
 publica. No se modificó ningún byte de él. El CD original y su driver
